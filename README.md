@@ -1,4 +1,4 @@
-
+![Green Minimalist Fashion Collection Banner](https://user-images.githubusercontent.com/27519031/228180581-08a028ff-7675-4805-a9cb-aa3ab823b64a.png)
 
 ### Hi 👋, I'm Nasira Mujawar (Kadgaonkar)
 
