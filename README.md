@@ -3,7 +3,7 @@
 ### Hi 👋, I'm Nasira Mujawar (Kadgaonkar)
 
 # 💫 About Me:
-🔭 I’m currently working on Portfolio website using Django framework<br>🌱 I’m currently learning React<br>⚡ Fun fact I think I'm funny 
+🔭 I’m the Data Scientist<br>🌱 Corporate Trainer<br>⚡ Fun fact I think I'm funny 
 
 
 ## 🌐 Socials:
