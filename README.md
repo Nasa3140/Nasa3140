@@ -3,7 +3,10 @@
 ### Hi 👋, I'm Nasira Mujawar (Kadgaonkar)
 
 # 💫 About Me:
-🔭 I’m the Data Scientist<br>🌱 Corporate Trainer<br>⚡ Fun fact I think I'm funny 
+🔭 I’m the Data Scientist<br> 👩‍🏫 Corporate Trainer: Empowering aspiring analysts with skills to transition into data roles.<br> 
+🎯 Focused on helping businesses and individuals make data-driven decisions. <br>
+🧩 Strong foundation in statistical analysis, data visualization, and ETL processes. <br>⚡ Fun fact I think I'm funny 
+
 
 
 ## 🌐 Socials:
