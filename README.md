@@ -1,4 +1,4 @@
-![https://user-images.githubusercontent.com/27519031/228180581-08a028ff-7675-4805-a9cb-aa3ab823b64a](https://raw.githubusercontent.com/Nasa3140/Nasa3140/main/Purple%20Geometric%20Graphic%20Designer%20LinkedIn%20Career%20Page%20Background.png)
+![Purple Geometric Graphic Designer LinkedIn Career Page Background](https://github.com/user-attachments/assets/0bb15881-0bf7-4c1c-9050-6f709177400e)
 
 ### Hi 👋, I'm Nasira Mujawar (Kadgaonkar)
 
